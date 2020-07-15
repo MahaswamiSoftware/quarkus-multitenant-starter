@@ -17,7 +17,6 @@
         <docker-plugin.version>0.28.0</docker-plugin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <keycloak.version>10.0.2</keycloak.version>
     </properties>
 
     <dependencyManagement>
